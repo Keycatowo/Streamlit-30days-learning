@@ -1,5 +1,8 @@
 # Day02 建立第一個Streamlit 應用
 
+## 重點
++ 建立第一個Streamlit程式
++ 學會在Streamlit中顯示一些文字
 
 ## 建立第一個Streamlit程式
 建立一個`streamlit_app.py`
@@ -15,4 +18,4 @@ streamlit run streamlit_app.py
 ```
 
 
-![](https://i.imgur.com/mD1HBMI.png)
+![](../fig/Day02.png)
