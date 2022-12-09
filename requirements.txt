@@ -1,2 +1,3 @@
 streamlit
 plotly
+streamlit-elements==0.1.*
